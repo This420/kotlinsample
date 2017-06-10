@@ -1,0 +1,2 @@
+# kotlinsample
+ことりん写経
